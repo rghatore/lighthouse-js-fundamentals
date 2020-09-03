@@ -26,7 +26,6 @@ if (money > price) {
 } else {
   console.log("That's not enough, you still owe me money.");
 } */
-
 let option = 7;
 
 switch (option) {
