@@ -2,6 +2,6 @@ const sayHello  = function (name) {
   console.log("Hello, " + name);
 }
 
-sayHello();
-sayHello("Caliban");
-sayHello("Miranda");
+sayHello(); //prints Hello, undefined
+sayHello("Caliban"); //prints Hello, Caliban
+sayHello("Miranda"); //prints Hello, Miranda
